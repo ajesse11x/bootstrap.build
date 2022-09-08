@@ -10,7 +10,7 @@
     "lunr": "^2.1.5",
     "minify": "^3.0.3",
     "ncp": "^2.0.0",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.2",
     "parse-unit": "^1.0.1",
     "react": "^16.2.0",
     "react-ace": "^5.8.0",
@@ -22,7 +22,7 @@
     "react-spinners": "^0.2.5",
     "react-tether": "^0.6.0",
     "rimraf": "^2.6.2",
-    "sass-export": "^1.0.0",
+    "sass-export": "^2.0.0",
     "sass.js": "^0.10.7",
     "uglifycss": "^0.0.27"
   },
