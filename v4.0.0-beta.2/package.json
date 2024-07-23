@@ -8,7 +8,7 @@
     "debounce": "^1.1.0",
     "express": "^4.16.2",
     "lunr": "^2.1.5",
-    "node-sass": "^4.7.2",
+    "node-sass": "^9.0.0",
     "parse-unit": "^1.0.1",
     "react": "^16.2.0",
     "react-ace": "^5.8.0",
@@ -18,7 +18,7 @@
     "react-sidebar": "^2.3.2",
     "react-spinners": "^0.2.5",
     "react-tether": "^0.6.0",
-    "sass-export": "^1.0.0",
+    "sass-export": "^2.0.0",
     "sass.js": "^0.10.7"
   },
   "scripts": {
